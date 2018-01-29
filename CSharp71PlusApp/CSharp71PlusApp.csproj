@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="71_DefaultLiteralExpressions.cs" />
     <Compile Include="Program_71_AsyncMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

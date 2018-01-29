@@ -40,6 +40,10 @@ Twitter: [@RobertHaken](https://twitter.com/RobertHaken)
 - [`CSharp71PlusApp/72_NontrailingNamedArguments.cs`](CSharp71PlusApp/72_NontrailingNamedArguments.cs)
 - https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-2#non-trailing-named-arguments
 
-**7. C# 7.2 - Leading underscores in numeric literals**
+**8. C# 7.2 - Leading underscores in numeric literals**
 - [`CSharp71PlusApp/72_LeadingUnderscoresInNumericLiterals.cs`](CSharp71PlusApp/72_LeadingUnderscoresInNumericLiterals.cs)
 - https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-2#leading-underscores-in-numeric-literals
+
+**9. C# 7.2 - private protected access modifier**
+- [`CSharp71PlusApp/72_PrivateProtected.cs`](CSharp71PlusApp/72_PrivateProtected.cs)
+- https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-2#private-protected

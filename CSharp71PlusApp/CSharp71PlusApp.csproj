@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="71_DefaultLiteralExpressions.cs" />
     <Compile Include="71_InferredTupleElementNames.cs" />
+    <Compile Include="72_LeadingUnderscoresInNumericLiterals.cs" />
     <Compile Include="72_NontrailingNamedArguments.cs" />
     <Compile Include="72_ReferenceSemanticsWithValueTypes.cs" />
     <Compile Include="Program_71_AsyncMain.cs" />

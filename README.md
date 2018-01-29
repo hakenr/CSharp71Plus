@@ -39,3 +39,7 @@ Twitter: [@RobertHaken](https://twitter.com/RobertHaken)
 **7. C# 7.2 - Non-trailing named arguments**
 - [`CSharp71PlusApp/72_NontrailingNamedArguments.cs`](CSharp71PlusApp/72_NontrailingNamedArguments.cs)
 - https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-2#non-trailing-named-arguments
+
+**7. C# 7.2 - Leading underscores in numeric literals**
+- [`CSharp71PlusApp/72_LeadingUnderscoresInNumericLiterals.cs`](CSharp71PlusApp/72_LeadingUnderscoresInNumericLiterals.cs)
+- https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-2#leading-underscores-in-numeric-literals

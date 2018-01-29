@@ -35,3 +35,7 @@ Twitter: [@RobertHaken](https://twitter.com/RobertHaken)
 	- `ref struct` types
 - https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-2#reference-semantics-with-value-types
 - https://docs.microsoft.com/en-us/dotnet/csharp/reference-semantics-with-value-types
+
+**7. C# 7.2 - Non-trailing named arguments**
+- [`CSharp71PlusApp/72_NontrailingNamedArguments.cs`](CSharp71PlusApp/72_NontrailingNamedArguments.cs)
+- https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-2#non-trailing-named-arguments

@@ -56,6 +56,7 @@
     <Compile Include="72_ReferenceSemanticsWithValueTypes.cs" />
     <Compile Include="Program_71_AsyncMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="vNext_DefaultInterfaceMethods.cs" />
     <Compile Include="vNext_NullableReferenceTypes.cs" />
   </ItemGroup>
   <ItemGroup>

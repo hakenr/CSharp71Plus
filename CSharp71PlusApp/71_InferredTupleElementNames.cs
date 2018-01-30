@@ -21,6 +21,12 @@ namespace CSharp71PlusApp
 			var pair71 = (count, label);
 
 			// Tuple Items - camelCase vs. PascalCase ?!
+
+
+			// C# 7.3?
+			//if (pair71 == (5, "test")) { }
+			//if ((count, label) == (5, "test")) { }
+			if ((pair71.count == 5) && (pair71.label == "test")) { } // C# 7.1
 		}
 	}
 }

@@ -14,6 +14,15 @@ namespace CSharp71PlusApp
 		{
 			var cache = HttpRuntime.Cache;
 
+			cache.Add(
+				"key",
+				"value",
+				null,
+				Cache.NoAbsoluteExpiration,
+				Cache.NoSlidingExpiration,
+				CacheItemPriority.Default,
+				null);
+
 			// C# 7
 			cache.Add(
 				"key",

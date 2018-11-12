@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CSharp71PlusApp
+﻿namespace CSharp71PlusApp
 {
 	// C# 7.1 - Inferred tuple element names (https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-1#inferred-tuple-element-names)
 	public class InferredTupleElementNames
@@ -23,9 +17,9 @@ namespace CSharp71PlusApp
 			// Tuple Items - camelCase vs. PascalCase ?!
 
 
-			// C# 7.3?
-			//if (pair71 == (5, "test")) { }
-			//if ((count, label) == (5, "test")) { }
+			// C# 7.3
+			if (pair71 == (5, "test")) { }
+			if ((count, label) == (5, "test")) { }
 			if ((pair71.count == 5) && (pair71.label == "test")) { } // C# 7.1
 		}
 	}
